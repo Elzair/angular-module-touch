@@ -1,8 +1,6 @@
 angular-module-touch
 ====================
 
-Touch AngularJS module suitable for bundling with Browserify or Webpack
-
 Touch AngularJS module suitable for bundling with [Browserify](http://browserify.org/) or [Webpack](https://webpack.github.io/)
 
 Installation
