@@ -1,6 +1,6 @@
 {
   "name": "angular-module-touch",
-  "version": "1.2.18",
+  "version": "1.2.19",
   "description": "Touch AngularJS module suitable for bundling with Browserify or Webpack",
   "main": "angular-touch.js",
   "scripts": {
